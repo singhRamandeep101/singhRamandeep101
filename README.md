@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Raman 👋
 
-<!--
-**singhRamandeep101/singhRamandeep101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android & Flutter developer in Hong Kong. CS graduate (BSc Hons, 2:1) from HKMU, previously a software developer intern at Roborn (Cyberport). I like building mobile apps that work for Hong Kong's multilingual reality — English, Cantonese, and everything in between.
 
-Here are some ideas to get you started:
+**Currently:** looking for junior Android / mobile developer roles in Hong Kong 🇭🇰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+
+**[Domestic Helper Hiring App](https://github.com/singhRamandeep101/Domestic-helper-app)** — my final year project. Led a 4-person team building a full-stack Android platform (Kotlin, Firebase) that matches employers with domestic helpers using a rule-based + scikit-learn ML engine, with real-time translated chat across 4 languages and in-app Jitsi video interviews.
+
+**[SmartWallet HK](https://github.com/singhRamandeep101/SmartWallet-HK)** — offline-first personal finance app in Flutter. Bilingual (English / 繁體中文), HKD budgets, recurring transactions, custom-painted spending charts, CSV export. Unit-tested with GitHub Actions CI.
+
+## Stack
+
+`Kotlin` `Dart / Flutter` `Java` `Python` `Firebase` `SQLite / Drift` `Riverpod` `MVVM` `scikit-learn` `Git` `GitHub Actions`
+
+## Reach me
+
+[Portfolio](https://singhramandeep101.github.io) · [LinkedIn](https://www.linkedin.com/in/singh-ramandeep-810223272/) · singhramandeep0910@gmail.com
