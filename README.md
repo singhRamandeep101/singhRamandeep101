@@ -10,9 +10,9 @@ Android & Flutter developer in Hong Kong. CS graduate (BSc Hons, **2:1**) from H
 
 ## What I've built
 
-**[Domestic Helper Hiring App](https://github.com/singhRamandeep101/Domestic-helper-app)** — Final Year Project (HKMU). Led a 4-person team building a full-stack Android platform (Kotlin, Firebase) with rule-based + scikit-learn ML matching, real-time translated chat across 4 languages, and in-app Jitsi video interviews. **35% efficiency gain** over manual hiring workflows.
+**[SmartWallet HK](https://github.com/singhRamandeep101/SmartWallet-HK)** — Solo Flutter app. Offline-first, bilingual (EN / 繁體中文), HKD budgets, custom charts, CSV export. [![CI](https://github.com/singhRamandeep101/SmartWallet-HK/actions/workflows/ci.yml/badge.svg)](https://github.com/singhRamandeep101/SmartWallet-HK/actions/workflows/ci.yml) · [Privacy](https://singhramandeep101.github.io/smartwallet-privacy.html) · [APK build](https://github.com/singhRamandeep101/SmartWallet-HK/actions/workflows/build-apk.yml)
 
-**[SmartWallet HK](https://github.com/singhRamandeep101/SmartWallet-HK)** — Solo Flutter project. Offline-first, bilingual (EN / 繁體中文), HKD budgets, recurring transactions, custom-painted spending charts, CSV export. Unit-tested with **GitHub Actions CI**.
+**[Domestic Helper Hiring App](https://github.com/singhRamandeep101/Domestic-helper-app)** — Final Year Project (HKMU). Led a 4-person team building a full-stack Android platform (Kotlin, Firebase) with employer–helper matching, real-time translated chat across 4 languages, and in-app Jitsi video interviews. **35% efficiency gain** over manual hiring workflows. [Architecture notes](https://github.com/singhRamandeep101/Domestic-helper-app/blob/Raman/docs/ARCHITECTURE.md)
 
 **[Portfolio](https://singhramandeep101.github.io)** — MTR-themed developer site with project galleries and contact.
 
